@@ -194,8 +194,15 @@ plt.show()
 
 ## Output:
 
-https://github.com/Vineesh-AI-DS/demo/assets/93427254/a1c13c8b-97d8-4471-9822-66d403a72352
+![363492179-6182ef77-1ac1-420a-abe7-b65c0a66df52](https://github.com/user-attachments/assets/2a4f5053-015a-4215-a108-304cba167a59)
 
+![363492179-6182ef77-1ac1-420a-abe7-b65c0a66df52](https://github.com/user-attachments/assets/dc5e1a15-15ff-4f37-9abd-853611df673b)
+
+![363492179-6182ef77-1ac1-420a-abe7-b65c0a66df52](https://github.com/user-attachments/assets/cbb44580-ab85-4ed6-abb2-7d77bc2c675d)
+
+![363492192-c9882288-32b6-4e1e-a6d5-b667c3a403b6](https://github.com/user-attachments/assets/417a3bb9-282c-4594-8f17-28c99bac9178)
+
+![363492192-c9882288-32b6-4e1e-a6d5-b667c3a403b6](https://github.com/user-attachments/assets/6cfd0ce4-cec7-42e0-a1b3-53e59c1c72ba)
 ## Result:
 
 Thus a Bayesian Network is generated using Python
