@@ -194,7 +194,7 @@ plt.show()
 
 ## Output:
 
-<img width="760" alt="o11" src="https://github.com/Vineesh-AI-DS/demo/assets/93427254/a1c13c8b-97d8-4471-9822-66d403a72352">
+https://github.com/Vineesh-AI-DS/demo/assets/93427254/a1c13c8b-97d8-4471-9822-66d403a72352
 
 ## Result:
 
